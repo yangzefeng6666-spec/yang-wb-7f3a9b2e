@@ -1,4 +1,4 @@
-const CACHE = 'yang-workspace-v6';
+const CACHE = 'yang-workspace-gh-v2';
 const ASSETS = [
   './',
   './index.html',
